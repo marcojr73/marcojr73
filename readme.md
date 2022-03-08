@@ -15,6 +15,8 @@ Stephen Hawking
 &nbsp;
 
 ### Formação
-1. 
+2018 - 2025 Engenharia elétrica UFJF
+2021 - Curso Desenvolvimendo web ProgramadorBR
+2022 - Soft Engineer DRIVEN
 
 
