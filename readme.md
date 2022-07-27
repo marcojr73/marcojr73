@@ -43,9 +43,9 @@
  &nbsp; 
   
 <div align="center">
-  <img height="205em" alt="stats" src="https://github-readme-stats.vercel.app/api?username=marcojr73&show_icons=true&hide_border=true&theme=algolia" />
+  <img height="205em" alt="stats" src="https://github-readme-stats.vercel.app/api?username=marcojr73&show_icons=true&hide_border=true&theme=midnight-purple&bg_color=0d1117&hide_border=true" />
 
-  <img height="205em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcojr73&theme=algolia" />
+  <img height="205em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcojr73&theme=midnight-purple&bg_color=0d1117&hide_border=true" />
 </div>  
   
 &nbsp;
