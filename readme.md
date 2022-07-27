@@ -5,7 +5,7 @@
 &nbsp;
 
 ```js
-import Desenvolvedor from "marcojr73";
+import Developer from "marcojr73";
 
 const AboutMe = {
    name: "Marco Júnior Lopes de Melo",
