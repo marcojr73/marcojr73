@@ -22,11 +22,6 @@
       favoriteMoovie: "back to the future"
    }
    ```
-&nbsp;
-<h3 align="center">Entre em contato comigo!</h3>
-<p align=center>
-<a href="https://www.linkedin.com/in/marco-junior-7a21871b2/"><img src = "https://img.shields.io/badge/-marcojunior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-junior/)" /> </a>
-<a href="mailto:marco.junior@engenharia.ufjf.com.br"><img src = "https://img.shields.io/badge/-marco.junior-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marco.junior@engenharia.ufjf.br)](mailto:marco.junior@engenharia.ufjf.br") /></a>
 
 &nbsp;
 <h3 align="center">Habilidades e ferramentas</h3>
@@ -42,9 +37,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="40"/>
    <img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" width="30" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40"/>
-          
-       
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40"/> 
  </p>
 
  &nbsp; 
@@ -55,7 +48,11 @@
   <img height="205em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcojr73&theme=algolia" />
 </div>  
   
-  
+&nbsp;
+<h3 align="center">Entre em contato comigo!</h3>
+<p align=center>
+<a href="https://www.linkedin.com/in/marco-junior-7a21871b2/"><img src = "https://img.shields.io/badge/-marcojunior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-junior/)" /> </a>
+<a href="mailto:marco.junior@engenharia.ufjf.com.br"><img src = "https://img.shields.io/badge/-marco.junior-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marco.junior@engenharia.ufjf.br)](mailto:marco.junior@engenharia.ufjf.br") /></a>
   
 </p>
 
