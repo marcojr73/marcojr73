@@ -10,7 +10,7 @@ const AboutMe = {
    age: 22,
    pronoun: "ele/dele",
    occupationArea: "Software Engineer",
-   training school: "Driven Education",
+   trainingSchool: "Driven Education",
    address: "Mercês-MG",
    hobbies: "play chess, read, drink cofee and watch old movies",
    favoriteBook: "Sapiens: A Brief History of Humankind",
