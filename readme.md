@@ -2,23 +2,26 @@
 
 ### É um prazer ter você aqui, sou apaixonado por tecnologia e felinos, apersar de iniciante no mundo da programação já me considero o melhor programador da minha rua
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-              width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 &nbsp;
 
-```js
-import Developer from "marcojr73";
 
-const AboutMe = {
-   name: "Marco Júnior Lopes de Melo",
-   age: 22,
-   pronoun: "ele/dele",
-   occupationArea: "Software Engineer",
-   trainingSchool: "Driven Education",
-   address: "Mercês-MG",
-   hobbies: "play chess, read, drink cofee and watch old movies",
-   favoriteBook: "Sapiens: A Brief History of Humankind",
-   favoriteMoovie: "back to the future"
-}
-```
+   ```js
+   import Developer from "marcojr73";
+
+   const AboutMe = {
+      name: "Marco Júnior Lopes de Melo",
+      age: 22,
+      pronoun: "ele/dele",
+      occupationArea: "Software Engineer",
+      trainingSchool: "Driven Education",
+      address: "Mercês-MG",
+      hobbies: "play chess, read, drink cofee and watch old movies",
+      favoriteBook: "Sapiens: A Brief History of Humankind",
+      favoriteMoovie: "back to the future"
+   }
+   ```
 &nbsp;
 <h3 align="center">Entre em contato comigo!</h3>
 <p align=center>
