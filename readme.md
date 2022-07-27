@@ -2,7 +2,7 @@
 
 ### É um prazer ter você aqui, sou apaixonado por tecnologia e felinos, apersar de iniciante no mundo da programação já me considero o melhor programador da minha rua
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-              width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-              width="350px" width="400px" align="right" alt="Computador iuriCode">
 
 &nbsp;
 
