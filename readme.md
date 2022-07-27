@@ -1,6 +1,22 @@
-# **Olá, é um prazer ter você aqui.**
+# **Olá, Sou o Marco**
 
-## Sou o melhor programador da minha rua, confira meus projetos!
+### É um prazer ter você aqui, sou apaixonado por tecnologia e felinos, apersar de iniciante no mundo da programação já me considero o melhor programador da minha rua
+
+```js
+import Desenvolvedor from "marcojr73";
+
+const AboutMe = {
+   name: "Marco Júnior Lopes de Melo",
+   age: 22,
+   pronoun: "ele/dele",
+   occupationArea: "Software Engineer",
+   training school: "Driven Education",
+   address: "Mercês-MG",
+   hobbies: "play chess, read, drink cofee and watch old movies",
+   favoriteBook: "Sapiens: A Brief History of Humankind",
+   favoriteMoovie: "back to the future"
+}
+```
 
 "Lembre-se de olhar para o alto, para as estrelas, e não para baixo, para os seus pés."
 
@@ -25,14 +41,12 @@ Stephen Hawking
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="40"/>
-   <img src="https://website-v9.vercel.app/logo-dark.svg" width="50" height="40"/>
+   <img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" width="30" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40"/>
           
        
  </p>
-<!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="40"/>  -->
-
 
  &nbsp; 
   
