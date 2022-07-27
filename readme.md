@@ -2,6 +2,8 @@
 
 ### É um prazer ter você aqui, sou apaixonado por tecnologia e felinos, apersar de iniciante no mundo da programação já me considero o melhor programador da minha rua
 
+&nbsp;
+
 ```js
 import Desenvolvedor from "marcojr73";
 
@@ -17,12 +19,6 @@ const AboutMe = {
    favoriteMoovie: "back to the future"
 }
 ```
-
-"Lembre-se de olhar para o alto, para as estrelas, e não para baixo, para os seus pés."
-
-Stephen Hawking
-
-
 &nbsp;
 <h3 align="center">Entre em contato comigo!</h3>
 <p align=center>
@@ -69,5 +65,7 @@ Stephen Hawking
 - [x]  2021 -      Curso Desenvolvimendo web ProgramadorBR
 
 - [ ]  2022 -      Soft Engineer DRIVEN
+
+"Lembre-se de olhar para o alto, para as estrelas, e não para baixo, para os seus pés." - Stephen Hawking
 
 
