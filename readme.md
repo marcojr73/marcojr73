@@ -26,7 +26,7 @@
 <h3 align="center">Entre em contato comigo!</h3>
 <p align=center>
 <a href="https://www.linkedin.com/in/marco-junior-7a21871b2/"><img src = "https://img.shields.io/badge/-marcojunior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-junior/)" /> </a>
-<a href="mailto:marcojuniorengineer@gmail.com"><img src = "https://img.shields.io/badge/-marco.junior-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lessalsn@gmail.com)](mailto:kanna6501@gmail.com" /></a>
+<a href="mailto:marco.junior@engenharia.ufjf.com.br"><img src = "https://img.shields.io/badge/-marco.junior-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marco.junior@engenharia.ufjf.br)](mailto:marcojuniorengineer@gmail.com" /></a>
 
 &nbsp;
 <h3 align="center">Habilidades e ferramentas</h3>
