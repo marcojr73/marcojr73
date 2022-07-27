@@ -8,7 +8,7 @@
 
 
    ```js
-   import Developer from "marcojr73";
+   import Developer from "./marcojr73.js";
 
    const AboutMe = {
       name: "Marco Júnior Lopes de Melo",
