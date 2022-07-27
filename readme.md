@@ -17,7 +17,7 @@
       occupationArea: "Software Engineer",
       trainingSchool: "Driven Education",
       address: "Mercês-MG",
-      hobbies: "play chess, read, drink cofee and watch old movies",
+      hobbies: "play chess, read, and watch old movies",
       favoriteBook: "Sapiens: A Brief History of Humankind",
       favoriteMoovie: "back to the future"
    }
