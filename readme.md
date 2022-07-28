@@ -19,7 +19,8 @@
       address: "Mercês-MG",
       hobbies: "play chess, read, and watch old movies",
       favoriteBook: "Sapiens: A Brief History of Humankind",
-      favoriteMoovie: "back to the future"
+      favoriteMoovie: "back to the future",
+      favoriteSong: "Oasis - Whatever"
    }
    ```
 
