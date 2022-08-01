@@ -59,14 +59,6 @@
 
 &nbsp;
 
-### Formação
-
-- [ ]  2018 - 2025 Engenharia elétrica UFJF
-
-- [x]  2021 -      Curso Desenvolvimendo web ProgramadorBR
-
-- [ ]  2022 -      Soft Engineer DRIVEN
-
 "Lembre-se de olhar para o alto, para as estrelas, e não para baixo, para os seus pés." - Stephen Hawking
 
 
