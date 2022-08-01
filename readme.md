@@ -59,6 +59,6 @@
 
 &nbsp;
 
-"Lembre-se de olhar para o alto, para as estrelas, e não para baixo, para os seus pés." - Stephen Hawking
+<p align="center">"Lembre-se de olhar para o alto, para as estrelas, e não para baixo, para os seus pés." - Stephen Hawking</p>
 
 
