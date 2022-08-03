@@ -14,7 +14,7 @@
       name: "Marco Júnior Lopes de Melo",
       age: 22,
       pronoun: "he/his",
-      occupationArea: "Software Engineer",
+      occupationArea: "Web developer",
       trainingSchool: "Driven Education",
       address: "Mercês-MG",
       hobbies: "play chess, read, and watch old movies",
