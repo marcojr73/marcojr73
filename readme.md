@@ -13,14 +13,9 @@
    const AboutMe = {
       name: "Marco Júnior Lopes de Melo",
       age: 22,
-      pronoun: "he/him",
       occupationArea: "Web developer",
-      trainingSchool: "Driven Education",
       address: "Mercês-MG",
       hobbies: "play chess, read, and watch old movies",
-      favoriteBook: "Sapiens: A Brief History of Humankind",
-      favoriteMoovie: "back to the future",
-      favoriteSong: "Oasis - Whatever"
    }
    ```
 
