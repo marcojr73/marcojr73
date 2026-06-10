@@ -12,7 +12,7 @@
 
    const AboutMe = {
       name: "Marco Júnior Lopes de Melo",
-      age: 22,
+      age: 26,
       occupationArea: "Web developer",
       address: "Mercês-MG",
       hobbies: "play chess, read, and watch old movies",
